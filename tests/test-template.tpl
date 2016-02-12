@@ -1,3 +1,0 @@
-<custom>
-{% BODY %}
-</custom>
